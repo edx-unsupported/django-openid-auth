@@ -4,7 +4,7 @@
 nick: opid
 owner: nasthagiri
 supporting_teams:
-    - platform/authn
+    - platform-authn
 track-pulls: true
 oeps:
     oep-2: true
